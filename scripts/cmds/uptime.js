@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "up",
     version: "2.2",
-    author: "Nabin",
+    author: "Célestin",
     role: 0,
     shortDescription: "Show bot uptime info",
     longDescription: "Display stylish uptime, system stats, RAM, prefix, threads, etc.",
@@ -50,7 +50,7 @@ module.exports = {
 ║ 🧩 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀     : ${totalCommands}
 ║ 🧪 𝗡𝗼𝗱𝗲.𝗷𝘀       : ${nodeVersion}
 ║ 🪄 𝗣𝗿𝗲𝗳𝗶𝘅        : ${prefix}
-║ 👑 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿     : Lonely/Gerald 
+║ 👑 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿     : Célestin 
 ╚${line}╝`;
 
     message.reply(box);
